@@ -1,5 +1,4 @@
 from customtkinter import *
-import pygame
 import os
 import sys
 
@@ -23,8 +22,6 @@ root.resizable(False, False)
 janela = CTkFrame(root, fg_color='#0D0D0D', bg_color='black')
 janela.pack(fill="both", expand=True)
 
-# Inicialização do PyGame
-pygame.mixer.init()
 
 # FUNÇÕES
 def calcular():
