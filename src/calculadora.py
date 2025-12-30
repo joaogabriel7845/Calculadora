@@ -2,17 +2,6 @@ from customtkinter import *
 import os
 import sys
 
-# Função para carregar recursos
-def resource_path(relative_path):
-
-    try:
-        base_path = sys._MEIPASS
-    except Exception:
-        base_path = os.path.abspath(".")
-    
-    return os.path.join(base_path, relative_path)
-
-
 root = CTk()
 root.title('Calculadora')
 root.geometry('400x500')
