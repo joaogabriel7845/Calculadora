@@ -16,7 +16,7 @@
 
 **Clique no botão abaixo para baixar a versão mais recente:**
 
-[![Download Calculadora](https://img.shields.io/badge/⬇️_Download-Calculadora.exe-2ea44f?style=for-the-badge&logo=windows)](https://github.com/seu-usuario/calculadora/releases/latest/download/Calculadora.exe)
+[![Download Calculadora](https://img.shields.io/badge/⬇️_Download-Calculadora.exe-2ea44f?style=for-the-badge&logo=windows)](https://github.com/joaogabriel7845/calculadora/releases/latest/download/Calculadora.exe)
 
 *Versão: 1.0.0*
 
