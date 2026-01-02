@@ -6,7 +6,6 @@
 ![Platform](https://img.shields.io/badge/Windows-Compatible-success)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-**Uma calculadora moderna com interface gráfica e efeitos sonoros**
 
 [📥 Download](#-download) • [✨ Características](#-características) • [🖥️ Como Usar](#️-como-usar)
 
